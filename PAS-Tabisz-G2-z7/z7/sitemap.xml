@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://mactab.pl/</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/zad2.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/3/zad3.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/4test/index.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/5/index.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/6test/index.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/index.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/index1.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/index3.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/index4.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/index5.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/index6.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/index7.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/index8.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/4test/plan.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/4test/datacenter/index.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/5/index.html</loc>
+  <lastmod>2019-11-15T10:26:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/5/index1.html</loc>
+  <lastmod>2019-11-15T10:29:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/5/wordpress/wordpress/</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/6test/rejestracja.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/6test/zalogowanie.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/6test/zalogowanie2.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/4test/datacenter/plan.php</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/5/wordpress/wordpress/2019/11/15/witaj-swiecie/</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/5/wordpress/wordpress/author/mactab/</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://mactab.pl/5/wordpress/wordpress/2019/11/</loc>
+  <lastmod>2019-12-04T15:30:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
